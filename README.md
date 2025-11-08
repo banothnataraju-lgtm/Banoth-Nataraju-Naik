@@ -93,4 +93,4 @@ This Bank Analytics project demonstrates how business insights can be extracted 
 **Banoth Nataraju Naik**
 Data Analyst | Excel | Power BI | Tableau | SQL
 📧 [banoth.nataraju@gmail.com]
-🌍 [(https://github.com/)]
+🌍 [(https://github.com/banothnataraju-lgtm)]
